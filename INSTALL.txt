@@ -1,0 +1,7 @@
+Steps for Installing Euchre:
+1 - Install OCaml and OPAM following the directions on the course website 
+    - "https://www.cs.cornell.edu/courses/cs3110/2020sp/install.html"
+2 - Install ANSITerminal by typing [opam install ansiterminal]
+3 - Enlarge your terminal window to the size of your full screen (this must be 
+    done to ensure players cannot see each other's cards)
+4 - Run the command [make play] from the root directory to begin the game
